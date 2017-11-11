@@ -1,0 +1,101 @@
+{
+  "number" : 6,
+  "people" : [
+    {
+      "name" : "Randy Bresnik",
+      "biophoto" : "https://howmanypeopleareinspacerightnow.com/app/biophotos/randy-bresnik.jpg",
+      "biophotowidth" : 640,
+      "biophotoheight" : 800,
+      "country" : "usa",
+      "countryflag" : "https://howmanypeopleareinspacerightnow.com/app/flags/flag-usa.jpg",
+      "launchdate" : "2017-07-28",
+      "careerdays" : 11,
+      "title" : "Commander",
+      "location" : "International Space Station",
+      "bio" : "Randy is a Marine and pilot from Fort Knox, Kentucky. This is his second trip to space and last time, his wife gave birth while he was in orbit. He is also the first Citadel graduate to go to space.",
+      "biolink" : "https://en.wikipedia.org/wiki/Randolph_Bresnik",
+      "twitter" : "https://twitter.com/astrokomrade"
+    },
+    {
+      "name" : "Sergey Ryazansky",
+      "biophoto" : "https://howmanypeopleareinspacerightnow.com/app/biophotos/sergey-ryazansky.jpg",
+      "biophotowidth" : 640,
+      "biophotoheight" : 800,
+      "country" : "russia",
+      "countryflag" : "https://howmanypeopleareinspacerightnow.com/app/flags/flag-russia.jpg",
+      "launchdate" : "2017-07-28",
+      "careerdays" : 167,
+      "title" : "Flight Engineer",
+      "location" : "International Space Station",
+      "bio" : "Sergey was born in Moscow, Russia. He began his career as a biochemist before becoming a cosmonaut. Fun family fact: His grandfather helped design the guidance systems on Sptnik!",
+      "biolink" : "https://en.wikipedia.org/wiki/Sergey_Ryazansky",
+      "twitter" : ""
+    },
+    {
+      "name" : "Paolo Nespoli",
+      "biophoto" : "https://howmanypeopleareinspacerightnow.com/app/biophotos/paolo-nespoli.jpg",
+      "biophotowidth" : 640,
+      "biophotoheight" : 800,
+      "country" : "italy",
+      "countryflag" : "https://howmanypeopleareinspacerightnow.com/app/flags/flag-italy.jpg",
+      "launchdate" : "2017-07-28",
+      "careerdays" : 175,
+      "title" : "Flight Engineer",
+      "location" : "International Space Station",
+      "bio" : "Paolo hails from Verano Brianza, in northern Italy. He is a man of many hobbies: pilot, scuba diver, photographer. He is also a... wait for it... master parachutist.",
+      "biolink" : "https://en.wikipedia.org/wiki/Paolo_Nespoli",
+      "twitter" : "https://twitter.com/astro_paolo"
+    },
+    {
+      "name" : "Mark Vande Hei",
+      "biophoto" : "https://howmanypeopleareinspacerightnow.com/app/biophotos/mark-vande-hei.jpg",
+      "biophotowidth" : 640,
+      "biophotoheight" : 800,
+      "country" : "usa",
+      "countryflag" : "https://howmanypeopleareinspacerightnow.com/app/flags/flag-usa.jpg",
+      "launchdate" : "2017-09-12",
+      "careerdays" : 0,
+      "title" : "Flight Engineer",
+      "location" : "International Space Station",
+      "bio" : "This is Mark’s first time in space! Most his career has been in the US Army before beginning at NASA in 2014. He was born in Virginia.",
+      "biolink" : "https://en.wikipedia.org/wiki/Mark_T._Vande_Hei",
+      "twitter" : "https://twitter.com/Astro_Sabot"
+    },
+    {
+      "name" : "Joseph Acaba",
+      "biophoto" : "https://howmanypeopleareinspacerightnow.com/app/biophotos/joseph-acaba.jpg",
+      "biophotowidth" : 640,
+      "biophotoheight" : 800,
+      "country" : "usa",
+      "countryflag" : "https://howmanypeopleareinspacerightnow.com/app/flags/flag-usa.jpg",
+      "launchdate" : "2017-09-12",
+      "careerdays" : 138,
+      "title" : "Flight Engineer",
+      "location" : "International Space Station",
+      "bio" : "As a child, Joseph was inspired by video of Neil Armstrong’s moon landing. So inspired he grew up to be the first Puerto Rican in space!  He is an avid scuba diver and loves science fiction.",
+      "biolink" : "https://en.wikipedia.org/wiki/Joseph_M._Acaba",
+      "twitter" : "https://twitter.com/AstroAcaba"
+    },
+    {
+      "name" : "Alexander Misurkin",
+      "biophoto" : "https://howmanypeopleareinspacerightnow.com/app/biophotos/alexander-misurkin.jpg",
+      "biophotowidth" : 640,
+      "biophotoheight" : 800,
+      "country" : "russia",
+      "countryflag" : "https://howmanypeopleareinspacerightnow.com/app/flags/flag-russia.jpg",
+      "launchdate" : "2017-09-12",
+      "careerdays" : 166,
+      "title" : "Flight Engineer",
+      "location" : "International Space Station",
+      "bio" : "Alexander is a life long pilot and a Major in the Russian Air Force. This is his second trip to the International Space station",
+      "biolink" : "https://en.wikipedia.org/wiki/Alexander_Misurkin",
+      "twitter" : ""
+    }
+
+  ]
+}
+
+
+
+
+   
